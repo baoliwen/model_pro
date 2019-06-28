@@ -4,18 +4,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.blw</groupId>
-    <artifactId>blw</artifactId>
+    <groupId>com.simple</groupId>
+    <artifactId>hulk</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>blwservice</module>
-        <module>blwweb</module>
-        <module>blwclient</module>
-        <module>blwcommon</module>
-        <module>blwordermapper</module>
-        <module>blwcenterinfo</module>
-        <module>blwresources</module>
+        <module>hulk-service</module>
+        <module>hulk-web</module>
+        <module>hulk-client</module>
+        <module>hulk-common</module>
+        <module>hulk-order-mapper</module>
+        <module>hulk-centerinfo</module>
+        <module>hulk-resources</module>
     </modules>
     <!-- 项目属性 -->
     <properties>
@@ -78,7 +78,7 @@
     <dependencies>
         <dependency>
             <groupId>${project.groupId}</groupId>
-            <artifactId>blw-resources</artifactId>
+            <artifactId>hulk-resources</artifactId>
             <version>${project.version}</version>
         </dependency>
 
