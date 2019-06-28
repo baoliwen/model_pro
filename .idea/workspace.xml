@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0199454e-0cac-4272-9fe2-2370726fcac9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blwcenterinfo/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blwclient/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blwcommon/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blwresources/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blwservice/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readme" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -81,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1641">
@@ -154,11 +146,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="621">
+              <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -271,7 +263,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/blwresources/src/main/resources.1688/common.properties" />
         <option value="$PROJECT_DIR$/blwresources/src/main/resources.1688/order_jdbc.properties" />
         <option value="$PROJECT_DIR$/blwcenterinfo/src/main/resources/spring-context-mybatis.xml" />
         <option value="$PROJECT_DIR$/blwresources/src/main/resources.dev/common.properties" />
@@ -322,6 +313,7 @@
         <option value="$PROJECT_DIR$/readme" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -456,280 +448,6 @@
             <path>
               <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
               <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcenterinfo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcenterinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcenterinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcenterinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcenterinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="blw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcenterinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="blw" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcenterinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="blw" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcenterinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwclient" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcommon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwcommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwresources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="dubboImpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwservice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="webservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwweb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="listener" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="model_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="blwweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1555,7 +1273,7 @@
       <workItem from="1507856053958" duration="658000" />
       <workItem from="1511169056451" duration="4529000" />
       <workItem from="1511257559933" duration="964000" />
-      <workItem from="1561686837373" duration="323000" />
+      <workItem from="1561686837373" duration="398000" />
     </task>
     <servers />
   </component>
@@ -1592,7 +1310,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129861000" />
+    <option name="totallyTimeSpent" value="129936000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1930,14 +1648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blwresources/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2014,6 +1724,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1641">
           <caret line="413" column="0" lean-forward="false" selection-start-line="413" selection-start-column="0" selection-end-line="413" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding />
         </state>
       </provider>
