@@ -16,14 +16,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="blw" target="1.7" />
-      <module name="blwcenterinfo" target="1.7" />
-      <module name="blwclient" target="1.7" />
-      <module name="blwcommon" target="1.7" />
-      <module name="blwordermapper" target="1.7" />
-      <module name="blwresources" target="1.7" />
-      <module name="blwservice" target="1.7" />
-      <module name="blwweb" target="1.7" />
+      <module name="blw" target="1.5" />
+      <module name="blwcenterinfo" target="1.5" />
+      <module name="blwclient" target="1.5" />
+      <module name="blwcommon" target="1.5" />
+      <module name="blwordermapper" target="1.5" />
+      <module name="blwresources" target="1.5" />
+      <module name="blwservice" target="1.5" />
+      <module name="blwweb" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
